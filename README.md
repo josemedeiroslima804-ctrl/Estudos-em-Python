@@ -21,8 +21,6 @@ As tecnologias utilizadas podem variar de acordo com o projeto. Entre elas:
 
 Python
 FastAPI
-SQLAlchemy
-PostgreSQL
-Pydantic
+PyPDF2
 tkinter
 Git e GitHub
